@@ -1,7 +1,6 @@
 # State of the Union Analysis with PySpark
 Authored by:  
-Ashutosh Pathak - G01378680  
-Chaithra Bekal - G01379873
+Ashutosh Pathak and Chaithra Bekal
 
 ## Overview
 This PySpark program analyzes the State of the Union (SOTU) addresses from 2009 to 2021 to extract valuable insights such as word frequency, interesting word pairs, and word lift. It performs text preprocessing, data analysis, and saves the results to text files.
